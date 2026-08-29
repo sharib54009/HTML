@@ -14,8 +14,6 @@ This repository contains basic HTML projects created for learning and practice.
 
 ## Project Structure
 - `index.html` – main HTML file
-- `style.css` – styles (if used)
-- `script.js` – JavaScript (if used)
 
 ## Purpose
 This project is for:
